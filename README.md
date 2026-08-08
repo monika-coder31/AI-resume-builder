@@ -35,7 +35,7 @@ Many students and job seekers struggle to create well-formatted, professional re
 6. Documentation
 
 ## 👩‍💻 Author
-Monika — 2nd Year AI & Data Science Student
+Monika P — 2nd Year AI & Data Science Student at V.S.B. Engineering College
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
