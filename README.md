@@ -1,4 +1,4 @@
-# AI-resume-builder# AI Resume Builder
+# AI Resume Builder
 
 An AI-powered web application that helps users create professional, ATS-friendly resumes by simply entering their details and choosing a template. Includes an AI-based ATS Score Checker that compares your resume against a job description and highlights missing keywords.
 
